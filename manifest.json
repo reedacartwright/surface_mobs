@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Tag Surface Mobs (Creepers only for now)",
+    "name": "Surface Mobs",
+    "uuid":"3c781700-c7b4-41c0-9353-08be4ca467ed",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "Surface Mobs Behavior Pack",
+        "type": "data",
+        "uuid": "d253757d-3f90-477c-9624-667ead0a19ca",
+        "version": [1, 0, 0]
+      }
+    ]
+}
